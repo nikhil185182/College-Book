@@ -9,10 +9,12 @@ The statistics dashboard shows us three trends :
 3) Number of new users register per day
 
 #Instructions to run project
+
 1. Backend:
-  a) open backend file in visual studio 2019 and install all required packages.
-  b) run the server to make api live
+a) open backend file in visual studio 2019 and install all required packages.
+b) run the server to make api live
+
 2. Forntend:
-  a) Install node.js in your system
-  b) install all dependencies 
-  c) type command - ( npm start ) to start the react web app live on port : 3000
+a) Install node.js in your system
+b) install all dependencies 
+c) type command - ( npm start ) to start the react web app live on port : 3000
